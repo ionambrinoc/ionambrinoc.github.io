@@ -1,0 +1,63 @@
+.icon {
+
+	width: 16px;
+	height: 16px;
+}
+
+.mini-icon {
+	width: 20px;
+	height: 20px;
+}	
+
+.photo{
+	width: 15%;
+	height: 15%;
+	float: right;
+}
+
+.col-md-4 {
+	padding-left: 5px;
+	width: 33.3333333%;
+	padding-right:2px;
+}	
+
+#contact {
+	padding-top:15px; 
+	padding-bottom: 5px; 
+	background-color: #cdcdcd;"
+}
+
+.navbar {
+	padding-bottom: 5px;
+}	
+
+.img-square {
+	width: 100px; 
+	height: 100px; 
+	float: left; 
+	margin-right:3px;
+}	
+
+.container {
+	margin-top: 3px;
+	margin-bottom: 3px;
+	border-radius: 5px;
+}
+
+.container-row{
+	width: 99.95%;
+	margin-bottom: 2ex;
+	padding-top: 0.8ex;
+}	
+
+.container h2{
+	margin-top: 5px;
+}
+
+.row {
+	margin-top: 5px;
+}	
+
+.jumbotron {
+	padding-bottom: 5px;
+}	
