@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/ionambrinoc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ion.ambrinoc.me
+  * I am ionambrinoc (https://keybase.io/ionambrinoc) on keybase.
+  * I have a public key with fingerprint 7179 459D 1D6A 347A C7B4  733E 6588 3672 D092 7434
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7179459d1d6a347ac7b4733e65883672d0927434",
+            "host": "keybase.io",
+            "key_id": "65883672d0927434",
+            "uid": "154198081ec5d93e9781697703149e00",
+            "username": "ionambrinoc"
+        },
+        "revoke": {
+            "sig_ids": [
+                "fffcc20fd6b8eec10f23ce18758dc76f5aae8ee34b4c9a9c86d546c0217f0a4c0f"
+            ]
+        },
+        "service": {
+            "hostname": "ion.ambrinoc.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1418555810,
+    "expire_in": 157680000,
+    "prev": "2692be30e850a8f41ececd16809240ea5f3c0617341eccd4240c0da0e8b59768",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.6
+Comment: https://keybase.io/crypto
+
+yMIkAnicbZJdSFRBFMd3s5RW+gIrSFMbC182mdk792sTlnpIIzNEoaTU7p07164f
+e9e7u35gYlRSkj1UChaipVJBkmD5UJipaEIZJNWblQVBD30qppVocyXppXmZmXP+
+53f+c5jhNREOl9O4ld8YO5aZ5nw6mB125Fwoa68GqqlVAW81KKZLm274C6kVsAx/
+CHiBiEQZ87KGNEHhsKgQUcUix1GBlyROED0alD0i5jBwg+Nm0K5gGFUJ0hTDZDF2
+KTA0Fv2PPryUQDxGsgQlRAmvyRyVRQkJsihCDmGZQmgLg9TyK6WUqQ2THVTmzSSg
+xg0sWm4WU9t10ChkjYLAewTouk6IB+qaoEqUEgR1D0cokkRe0ogo6LyiUJbgsIqJ
+rMhEEjQeCwR6kKhDBROogzzGZk3LDbIEt1/2z0DKsoMUFnGDgGWGTGKWsOTxUCjg
+tX2FqgK2uIKqBX8xBarh19hkWUE5tYIMA7yIKUnIsLkII4nneQlBN6CVAcOiBYat
+4EVBgmzZbWg5Q3oE2aNSDlKJh4qkYzY2SjTEVLIHQ6rwOkeggETOzhANsyCBmsL0
+Ki8zGLAfVuY3gVdkNpVChmSj8yuhsEVBzdDA0ZUOp8sRuWqF/TccrtXrl3+MFhW1
+mFNaFZMf8aj1Z/e5+PqEXS0LSZ+lTZdr41qbBtoGDo92/Gp7cmLPm22XXA3dPQmV
+zb2zZ8PZweisz3jDzPnpCOALz02+PD188+Dm3KIt6aPdiZ/exnWMT7clb4/O2r9Q
+V99/2PF4/F1VROaPvdmnghdP8jE1/anXHMiX17du6qGSEX/vavq3zhFXZt/u5xm+
+yeQPlb4HV1oSi0zo7KnOHRntnu1yT2S+Kvr6JTbp7mtXhXDd2kgrDqS+3ymFhDnn
+Mf/W2qn7vpiXo82RuM74uO/3obXRX5rOPH5hLA52DvWOjU2oZL45w5vW0bhhHj5r
+uD3Tjp/d2D50Z6wk7ntX+o7xP6cyLu0=
+=4+M5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ionambrinoc
+
+==================================================================
